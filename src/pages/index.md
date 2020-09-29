@@ -2,8 +2,8 @@
 templateKey: index-page
 title: Great coffee with a unique aroma
 image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+heading: Great coffee with a unique aroma
+subheading: Support sustainable farming while enjoying a cup of nice coffee
 mainpitch:
   title: Why Kaldi
   description: >
